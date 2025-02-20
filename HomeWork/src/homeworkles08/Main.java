@@ -27,6 +27,7 @@ public class Main {
         System.out.print("Введіть число для пошуку: ");
         int target = scanner.nextInt();
         //виклик бінарного пошуку та виведення результату
+
         int index = binarySearch(array, target);
 
         if (index != -1) {
