@@ -2,6 +2,7 @@ package homeworkles14;
 
 public class Main {
     public static void main(String[] args) {
+
         //створюємо об'єкт ConsolePrinter, але він представлений як Printer (поліморфізм)
         Printer printer = new ConsolePrinter();
 

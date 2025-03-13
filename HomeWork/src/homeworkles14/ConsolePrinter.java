@@ -35,6 +35,7 @@ class ConsolePrinter implements Printer {
         }
     }
 
+
     // @Override – означає, що цей метод перевизначає метод із інтерфейсу Printer
     @Override
     //отримуємо обєкт Message і виводимо його на екран
