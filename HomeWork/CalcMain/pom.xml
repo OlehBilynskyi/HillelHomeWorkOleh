@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>untitled21</artifactId>
+  <artifactId>CalcMain</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>untitled21</name>
@@ -14,8 +14,8 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>23</maven.compiler.source> <!-- Встановлено на 23 -->
-    <maven.compiler.target>23</maven.compiler.target> <!-- Встановлено на 23 -->
+    <maven.compiler.source>23</maven.compiler.source> <!-- Поміняв на 23 версію -->
+    <maven.compiler.target>23</maven.compiler.target> <!-- Поміняв на 23 версію -->
   </properties>
 
   <dependencies>
@@ -43,8 +43,8 @@
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.8.0</version>
           <configuration>
-            <source>23</source> <!-- Встановлено на 23 -->
-            <target>23</target> <!-- Встановлено на 23 -->
+            <source>23</source> <!-- Поміняв на 23 версію -->
+            <target>23</target> <!-- Поміняв на 23 версію -->
           </configuration>
         </plugin>
         <plugin>

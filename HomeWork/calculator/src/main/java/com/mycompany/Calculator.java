@@ -12,7 +12,7 @@ public class Calculator {
     public double multiply(double a, double b) {
         return a * b;
     }
-
+//додаємо умову що на 0 не ділиться
     public double divide(double a, double b) {
         if (b == 0) {
             throw new ArithmeticException("Division by zero is not allowed.");

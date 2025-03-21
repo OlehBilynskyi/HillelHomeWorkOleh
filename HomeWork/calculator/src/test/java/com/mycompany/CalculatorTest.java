@@ -2,7 +2,7 @@ package com.mycompany;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-
+//тест до кожної умови в калькуляторі
 public class CalculatorTest {
     private final Calculator calculator = new Calculator();
 

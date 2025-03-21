@@ -1,5 +1,5 @@
 package com.mycompany;
-
+// запускаємо наш калькулятор
 import com.mycompany.Calculator;
 public class Main {
     public static void main(String[] args) {
